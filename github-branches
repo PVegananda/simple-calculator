@@ -1,0 +1,8 @@
+$ git branch -v -a
+  bug-fix-revert                b751e09 Add improvement to contribute guidelines
+  bug-fix-typo                  a7a4cbd Fix typo in README documentation
+* main                          adbec66 Task 8: Add bug-fix-revert with curl command and PR output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert b751e09 Add improvement to contribute guidelines
+  remotes/origin/bug-fix-typo   a7a4cbd Fix typo in README documentation
+  remotes/origin/main           adbec66 Task 8: Add bug-fix-revert with curl command and PR output
