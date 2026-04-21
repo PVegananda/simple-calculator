@@ -8,7 +8,7 @@ We are always happy to receive pull requests or issues from anyone. This project
 
 ### Reporting Bugs
 
-Before reporting a bug, please check the issue tracker to make sure it hasn't already been reported.
+Before reporting a bug, please check the issue tracker to make sure it hasn't already been reported. Thank you for helping make this better!
 
 When reporting a bug, please include:
 - Clear title and description
