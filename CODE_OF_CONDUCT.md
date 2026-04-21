@@ -1,5 +1,7 @@
 # Code of Conduct
 
+This Code of Conduct applies to the github-final-project repository.
+
 ## Our Pledge
 We as contributors and maintainers pledge to make participation in our project a harassment-free experience for everyone.
 
