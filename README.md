@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This is a simple calculator project that includes a Bash script for computing simple interest based on user input.
+This is a simple calculator project that includes a Bash script for computing simple interest based on user input. Fixed typo in documentation.
 
 ## Project Description
 
